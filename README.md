@@ -3,7 +3,7 @@
 > 3차 해커톤 — 실무 풀스택 웹 서비스 구축 및 클라우드 배포 챌린지
 >
 > - **참가자**: 주문국
-> - **배포 URL**: (배포 후 추가)
+> - **배포 URL**: https://poultry-utility-salary-rivers.trycloudflare.com
 > - **GitHub 저장소**: https://github.com/munkukju/stocklensboard/blob/main/README.md
 
 본 보고서는 경영학 전공 후 풀스택 개발을 학습하는 과정에서 수행한 해커톤 결과물을 기술한다. 본 프로젝트의 목표는 수업에서 학습한 프론트엔드·백엔드·데이터베이스·인프라 개념을 실제 서비스 단위로 결합하여, 로그인부터 배포에 이르는 전체 사이클을 완결하는 것이다.
