@@ -2,7 +2,7 @@
 
 > 3차 해커톤 — 실무 풀스택 웹 서비스 구축 및 클라우드 배포 챌린지
 >
-> - **참가자**: 주문국국
+> - **참가자**: 주문국
 > - **배포 URL**: (배포 후 추가)
 > - **GitHub 저장소**: https://github.com/munkukju/stocklensboard/blob/main/README.md
 
